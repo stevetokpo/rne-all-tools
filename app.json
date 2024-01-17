@@ -20,7 +20,8 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png"
-      }
+      },
+      "package": "com.stevetokpo.BetaTheme"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
